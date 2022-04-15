@@ -1,0 +1,19 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "urban ink api",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm init api"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FireShack/api-urbanink.git"
+  },
+  "author": "FireShack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FireShack/api-urbanink/issues"
+  },
+  "homepage": "https://github.com/FireShack/api-urbanink#readme"
+}
